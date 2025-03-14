@@ -12,10 +12,22 @@ Bet-App is a modern betting application that allows users to place bets on vario
 
 ## Installation
 To install and run the app locally, follow these steps:
+## Prerequisites
+Ensure you have the following installed:
+- Node.js
+- npm
 
+## Usage
+1. Sign Up
+2. Login
+3. View all Games
+4. Add Game
+5. Place Bet
+6. View all Bets
+7. Remove bet
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Bet-App.git
+    git clone https://github.com/craigkibera/Bet-app
     ```
 2. Navigate to the project directory:
     ```bash
